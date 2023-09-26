@@ -6,8 +6,7 @@ export let speakerJson = {};
 // Static data fetching
 async function fetchSpeakers() {
   const response = await fetch(
-    "https://raw.githubusercontent.com/adhithiravi/Consuming-GraphqL-Apollo/master/api/data/speakers.json",
-    { next: { revalidate: 20 } }
+    "https://raw.githubusercontent.com/adhithiravi/Consuming-GraphqL-Apollo/master/api/data/speakers.json"
   );
 
   const data = await response.json();
