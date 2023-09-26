@@ -7,3 +7,9 @@ npx create-next-app@latest
 ### Layouts
 - Layout is UI shared between multiple pages. on navigation layouts preserve state remain interactive and do not re-render.
 ![Alt text](Layouts-explained.png)
+
+### @next/fonts
+Automatically optimize fonts and remove external requests for improved privacy and performance.
+```
+npm install @next/font
+```
