@@ -13,3 +13,6 @@ Automatically optimize fonts and remove external requests for improved privacy a
 ```
 npm install @next/font
 ```
+
+### When to use server vs client component
+![Alt text](client-vs-server.png)
