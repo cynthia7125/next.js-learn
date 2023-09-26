@@ -31,3 +31,12 @@ Useful when data your data changes and you want your app to show latest informat
 ### Dynamic data fetching or server side rendering
 ![Dynamic data fetching explained](Dynamic-data-fetching.png)
 ![Dynamic in code](dynamic-code.png)
+
+# Deploy
+## Deploying a next js app
+Find out how [on this page](https://nextjs.org/docs/pages/building-your-application/deploying)
+
+for this application we:
+1. Clicked on [Deploy a Next.js application to Vercel](https://vercel.com/new/clone)
+2. Provide repository name.
+3. Click on create.
